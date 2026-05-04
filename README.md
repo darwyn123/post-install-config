@@ -35,3 +35,73 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <br />
+
+<h2>Adding a new Department "SystemAdmins"</h2>
+
+- ...
+  
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<h2>Adding a new Team "Online Banking"</h2>
+
+- ...
+  
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<h2>Allowing anyone to create a ticket (Unregistered Users)</h2>
+
+- ...
+  
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<h2>Adding New Agents</h2>
+
+- ...
+  
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<h2>Adding New Users</h2>
+
+- ...
+  
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<h2>Adding Service Level Agreements (SLAs)</h2>
+
+- ...
+  
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<h2>Adding Help Topics</h2>
+
+- ...
+  
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
