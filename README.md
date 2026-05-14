@@ -173,7 +173,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Click Add Topic
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="876" height="587" alt="Business_Critical" src="https://github.com/user-attachments/assets/c532ec49-4a22-46f2-aa0b-9c02bf357216" />
+</p>
+<p>
+<img <img width="876" height="587" alt="Screenshot 2026-05-14 at 5 30 04 PM" src="https://github.com/user-attachments/assets/7df2edc0-5464-414a-adaa-ff58d07fdb7b" />
+</p>
+<p>
+<img <img width="876" height="587" alt="Screenshot 2026-05-14 at 5 30 53 PM" src="https://github.com/user-attachments/assets/c73a33d2-7d4e-438e-a4bb-144826c9a9fa" />
+</p>
+<p>
+<img <img width="876" height="587" alt="Screenshot 2026-05-14 at 5 31 46 PM" src="https://github.com/user-attachments/assets/c041a952-2c85-42d4-add1-3fcf592883d5" />
 </p>
 
 <br />
