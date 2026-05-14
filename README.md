@@ -72,7 +72,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Click Create Team
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="966" height="707" alt="OnlineBanking" src="https://github.com/user-attachments/assets/733dff66-7337-4bee-9426-21af1587ca7b" />
 </p>
 
 <br />
@@ -83,7 +83,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Click Save Changes
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="966" height="707" alt="UserSetting_UnCheckBox" src="https://github.com/user-attachments/assets/bc97053a-adf8-48d1-ae04-5c814b4ce4e7" />
 </p>
 
 <br />
@@ -94,26 +94,26 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Account Tap fill out:
     - Name, Email Address, Username for the particular agent being added.
       <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="864" height="782" alt="JaneDoe_Agent" src="https://github.com/user-attachments/assets/01518f03-7515-4907-bce2-c09ee4cec689" />
 </p>
 
 - Access Tap:
      - Select Department: Department of Agent
      - Select Role: Role of Agent
        <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="864" height="515" alt="Assign_Access" src="https://github.com/user-attachments/assets/ccabd3ac-c474-4a1c-9300-de3538acf96b" />
 </p>
        
 - Permissions Tap: Check Boxs to give Agent Permissions
   <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="864" height="482" alt="Assign_Permissions" src="https://github.com/user-attachments/assets/368bb77a-1119-447e-9de0-41bbff7978f6" />
 </p>
 
 - Teams Tap:
     - Select Team: Team of Agent
 - Click Create
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="876" height="416" alt="Assign_Team" src="https://github.com/user-attachments/assets/076bb566-487d-40f3-9632-65fa1f2cca36" />
 </p>
 
 <br />
