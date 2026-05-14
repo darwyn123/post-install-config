@@ -119,6 +119,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <br />
 
+<h2>Setting Agent's Passwords</h2>
+
+- Navigate to Admin Panel -> Agents -> Agents -> select the Agent thats needs to Set their Password.
+- Under Authentication section next to username, click "Set Password"
+- Uncheck box "Send the agent a password reset email"
+- Enter New Password
+- Confirm New Password
+- Uncheck box "Require password change at next login"
+- Click Update
+  
+<p>
+<img <img width="876" height="603" alt="SettingPassword" src="https://github.com/user-attachments/assets/327f5763-7981-477f-932e-5fb3b6004f3c" />
+</p>
+
+<br />
+
 <h2>Adding New Users</h2>
 
 - Navigate to Agents -> Users -> Add New User
