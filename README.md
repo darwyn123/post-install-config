@@ -111,10 +111,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Teams Tap:
     - Select Team: Team of Agent
-- Click Create
 <p>
 <img <img width="876" height="416" alt="Assign_Team" src="https://github.com/user-attachments/assets/076bb566-487d-40f3-9632-65fa1f2cca36" />
 </p>
+
+- Click Create
 
 <br />
 
