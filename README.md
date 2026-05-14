@@ -29,9 +29,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Adding a new role "Supreme Admin"</h2>
 
 - Open http://localhost/osTicket/scp/login.php in a web brower, type in your username and password and login.
-- Navigate to Agents -> Roles -> Add New Role
+- Navigate to Admin Panel -> Agents -> Roles -> Add New Role
 - Definition Tap:
     - Name Field: type in desired role, in this case it's "Supreme Admin".
+
+<p>
+<img <img width="963" height="606" alt="SupremeAdmin" src="https://github.com/user-attachments/assets/d3b42c67-940f-4eb0-916f-b4093c8fc5e0" />
+</p>
+      
 - Permission Tap:
     - Give all permissions to Supreme Admin (Check all boxes in "Tickets", "Tasks", "Knowledgebase").
     - Click Add Role
