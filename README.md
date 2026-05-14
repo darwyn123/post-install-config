@@ -138,7 +138,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Adding New Users</h2>
 
 - Navigate to Agent Panel -> Users -> Add New User
-- Name Field: type in the user name.
+- Email Field: type user's email. 
+- Name Field: type in the user's name.
 - Click Add User
   
 <p>
