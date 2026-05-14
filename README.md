@@ -137,12 +137,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Adding New Users</h2>
 
-- Navigate to Agents -> Users -> Add New User
+- Navigate to Agent Panel -> Users -> Add New User
 - Name Field: type in the user name.
 - Click Add User
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="876" height="478" alt="Adding_Users" src="https://github.com/user-attachments/assets/7cbaa2b5-f4e5-401f-bde4-a92599aac2bc" />
 </p>
 
 <br />
