@@ -60,7 +60,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Click Create Dept
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="769" height="754" alt="SysAdmins" src="https://github.com/user-attachments/assets/fb8d5e52-a397-43da-85c3-062a3b63196d" />
 </p>
 
 <br />
