@@ -45,10 +45,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img <img width="968" height="740" alt="Tickets_Permission" src="https://github.com/user-attachments/assets/db73b494-c11f-4488-8011-caf2ee87215e" />
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="968" height="590" alt="Tasks_Permissions" src="https://github.com/user-attachments/assets/72989e7d-949d-4dbb-bdff-4a6588caa9ff" />
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="968" height="440" alt="Knowledge_Permission" src="https://github.com/user-attachments/assets/811c3525-92db-4cf9-81c9-ac3bf5b409f8" />
 </p>
 
 <br />
