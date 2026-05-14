@@ -92,12 +92,26 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Navigate to Agents -> Agents -> Add New Agents
 - Account Tap fill out:
-    - Name, Email Address, Username and Set Password for the particular agent being added.
-- Access Tap check
-- Permissions Tap check
-- Click Create
+    - Name, Email Address, Username for the particular agent being added.
+      <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-  
+- Access Tap:
+     - Select Department: Department of Agent
+     - Select Role: Role of Agent
+       <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+       
+- Permissions Tap: Check Boxs to give Agent Permissions
+  <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Teams Tap:
+    - Select Team: Team of Agent
+- Click Create
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
