@@ -155,7 +155,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Click Add Plan
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="876" height="626" alt="Sev-A" src="https://github.com/user-attachments/assets/c57dbafc-8418-4a31-a316-e3f7609a0c18" />
+</p>
+<p>
+<img <img width="876" height="626" alt="Sev-B" src="https://github.com/user-attachments/assets/5a4ac840-0902-481f-8815-5fe005c95638" />
+</p>
+<p>
+<img <img width="876" height="626" alt="Sev-C" src="https://github.com/user-attachments/assets/4314f3f8-89e6-4a47-9cc3-2bf773f5aed8" />
 </p>
 
 <br />
