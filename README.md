@@ -42,6 +42,12 @@ This tutorial outlines the post-install configuration of the open-source help de
     - Click Add Role
   
 <p>
+<img <img width="968" height="740" alt="Tickets_Permission" src="https://github.com/user-attachments/assets/db73b494-c11f-4488-8011-caf2ee87215e" />
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
